@@ -7,4 +7,4 @@
 #### As funcionalidades desenvoldidas na aplicação:
 - Login e senha de usuário, com autenticação de usuário no padrão json web token.
 - Criação e atualização de dados do usuário.
-- Criar, Ler, Atualizar e Deletar as anotações.
+- Criar, Ler, Atualizar e Deletar as anotações em um banco de dados Postgres.
